@@ -13,6 +13,7 @@ public class Git {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("pushtest");
+        System.out.println("pulltest 20:32");
 
     }
 }
